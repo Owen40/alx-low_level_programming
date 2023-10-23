@@ -1,0 +1,1 @@
+This is a README for the repository on pointers, arrays and strings
